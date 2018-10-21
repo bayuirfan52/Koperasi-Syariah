@@ -1,0 +1,36 @@
+body{
+	width: 100%;
+}
+.splash{
+	width: 500px;
+	justify-content: center;
+}
+h2{
+	font-weight: normal;
+	font-size: 25pt;
+	font-family: Raleway, sans-serif;
+	margin-top: 150px;
+	color: #0984e3;
+}
+p{
+	font-family: arial;
+	font-size: 18pt;
+	font-weight: normal;
+	color: #00b894;
+}
+span{
+	color: #d63031;
+}
+a{	
+	display: block;
+	background-color: #00b894;
+	color: #fff;
+	font-family: Raleway, sans-serif;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	border-radius: 10px;
+}
+a:hover{
+	background-color: #55efc4;
+}
